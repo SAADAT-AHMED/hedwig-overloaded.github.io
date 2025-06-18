@@ -21,7 +21,7 @@ This project is hosted on **GitHub Pages** for ease of deployment and access.
 - Format: Hierarchical list matching CSV column names
 
 #### 📝 Example Structure:
-```markdown
+```text
 Serial
 Student Id
 Name
@@ -80,7 +80,7 @@ Marks
 	•	Grade Breakdown (below)
 
 📚 Example UI Hierarchy:
-
+```
 Marks
 ├── Attendance - 5
 ├── Quiz[T] - 10
@@ -97,7 +97,7 @@ Marks
 ├── Lab - 20
 ├── Total - 100
 └── Grade
-
+```
 
 
 🧩 Tech Stack Suggestions (optional)

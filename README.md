@@ -19,7 +19,7 @@ This project is hosted on **GitHub Pages** for ease of deployment and access.
 - Path: `./BREAKDOWN/course_name.md`
 - Purpose: Specifies the column breakdown and grading structure for a course
 - Format: Hierarchical list matching CSV column names
-
+- Here Q1 - 10 (The 10 represents the total marks for that component)
 #### 📝 Example Structure:
 ```text
 Serial
